@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2025-11-25",
+    "time": "00:05:46",
+    "mood": "good",
+    "energy": "good",
+    "objectives": [
+      "take some rest"
+    ],
+    "summary": "The user is feeling good with good energy, but mentioned their head is spinning. Their main objective for today is to take some rest."
+  },
+  {
+    "date": "2025-11-25",
+    "time": "01:47:54",
+    "mood": "not good (migraine)",
+    "energy": "slow",
+    "objectives": [
+      "take some rest"
+    ],
+    "summary": "User is not feeling good due to a migraine, energy is slow. Main objective is to take some rest."
+  },
+  {
+    "date": "2025-11-25",
+    "time": "02:06:14",
+    "mood": "Not good (headache)",
+    "energy": "Low",
+    "objectives": [
+      "Get some rest"
+    ],
+    "summary": "Mood: Not feeling good, likely due to a headache. Energy: A bit low. On your mind: Stressed about a lot of assignments and feeling overwhelmed by them. Objective for today: Get some rest."
+  }
+]
