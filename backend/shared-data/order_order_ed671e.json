@@ -1,0 +1,18 @@
+{
+  "orderId": "order_ed671e",
+  "timestamp": "2025-11-28T15:07:29.439958Z",
+  "items": [
+    {
+      "id": "bread001",
+      "qty": 1,
+      "price": 40
+    },
+    {
+      "id": "peanut001",
+      "qty": 1,
+      "price": 120
+    }
+  ],
+  "total": 160,
+  "status": "preparing"
+}
